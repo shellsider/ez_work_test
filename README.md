@@ -102,10 +102,6 @@ Each folder is a **self-contained Vite + React** project.
 - If the email is in an incorrect format, `"Invalid email format"` is displayed.
 - If the email ends in `@ez.works`, the API will return an error message (`422`).
 
-### **🔄 While Submitting**
-- The `"Contact Me"` button shows `"Submitting..."` while waiting for the API response.
-- The button is **disabled** during submission.
-
 ---
 
 ## 📸 Demo Screenshots
