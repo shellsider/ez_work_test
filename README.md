@@ -46,8 +46,8 @@ Each folder is a **self-contained Vite + React** project.
   - **720p (Tablet)**
   - **1080p, MacBook, iPad, and larger screens**
  
-### **4** **note**
-  - We could have used .env approach as well for securing the api endpoint, but uploading the .env file is not encouraged 
+### **4️⃣ Additional Note**
+  - We could have used the `.env` approach for securing the API endpoint, but uploading the `.env` file is not encouraged.
 
 ---
 
@@ -107,3 +107,28 @@ Each folder is a **self-contained Vite + React** project.
 - The button is **disabled** during submission.
 
 ---
+
+## 📸 Demo Screenshots
+
+### **Screenshot 1**
+![Screenshot 1](https://drive.google.com/uc?id=1CQJNBEM80Ka2R9wuaUtkkr6D0KBg6JBZ)
+
+### **Screenshot 2**
+![Screenshot 2](https://drive.google.com/uc?id=1I3dj9InjkXHUa1WAmHGH9AbAX2i_wr0E)
+
+### **Screenshot 3**
+![Screenshot 3](https://drive.google.com/uc?id=1YW6Z00aqe0QZQEWUzpjYsqhhJi0PpY2n)
+
+### **Screenshot 4**
+![Screenshot 4](https://drive.google.com/uc?id=1JoUVqZJjj_TDAN9vIdl-vkl84u9Rv951)
+
+### **Screenshot 5**
+![Screenshot 5](https://drive.google.com/uc?id=1ie19cxwphDbJbVV1k1ezgnGzhtFwTjO5)
+
+### **Screenshot 6**
+![Screenshot 6](https://drive.google.com/uc?id=1Tbh2m4QR6-0zaOo_YS6-cPk_IC0zC4eX)
+
+---
+
+This project successfully integrates **form validation, API handling, and responsive UI design**. 🚀  
+If you have any questions or need modifications, feel free to reach out!  
