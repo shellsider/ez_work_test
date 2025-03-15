@@ -45,6 +45,9 @@ Each folder is a **self-contained Vite + React** project.
   - **480p (Mobile)**
   - **720p (Tablet)**
   - **1080p, MacBook, iPad, and larger screens**
+ 
+### **4 *note*
+  - We could have used .env approach as well for securing the api endpoint, but uploading the .env file is not encouraged 
 
 ---
 
