@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "90423b00-c1cf-437a-81a3-b0b83bd47b15",
+		"name": "EZ-works-api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26437903"
+	},
+	"item": [
+		{
+			"name": "Defautlt-api",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
