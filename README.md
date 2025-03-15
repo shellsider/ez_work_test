@@ -124,6 +124,15 @@ Each folder is a **self-contained Vite + React** project.
 ### **Screenshot 6**
 ![Screenshot 6](https://drive.google.com/uc?id=1Tbh2m4QR6-0zaOo_YS6-cPk_IC0zC4eX)
 
+### **Screenshot 7**
+![Screenshot 7](https://drive.google.com/file/d/1qoWpNiepzo4lQoQT01P_h3zp9fs4AoUV)
+
+### **Screenshot 8**
+![Screenshot 8](https://drive.google.com/file/d/1qBjTUhfOgaOBddneFV5YgAmwq_2bGp6S)
+
+### **Screenshot 9**
+![Screenshot 9](https://drive.google.com/file/d/137CJnB5BKb5nTViotiHbdUdwC8l8KMpc)
+
 ---
 
 This project successfully integrates **form validation, API handling, and responsive UI design**. 🚀  
