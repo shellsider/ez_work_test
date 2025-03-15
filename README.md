@@ -32,11 +32,11 @@ Each folder is a **self-contained Vite + React** project.
 ### **2️⃣ API Integration (Using Axios)**
 - **API Endpoint:** `https://test.ezworks.ai/api`
 - **Successful Response (`200`)**
-  - `"Form Successfully Submitted!"` is displayed below the form.
+  - `"Form Successfully Submitted!"` is displayed in a Modal.
 - **Failure Response (`422` for `@ez.works` emails)**
-  - `"Incorrect Email"` message is displayed in the form.
+  - `"Incorrect Email"` message is displayed in a Modal.
 - **Error Handling**
-  - If the server returns an unknown error, it is displayed in the form.
+  - If the server returns an unknown error, it is displayed in a Modal.
 
 ### **3️⃣ UI & Styling**
 - `ez_work_main/` uses **CSS Modules** for styling.
